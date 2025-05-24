@@ -1,7 +1,9 @@
 # ffuf
 remove duplicate output ffuf tools depend on size
 after install script 
+```
 wget https://raw.githubusercontent.com/zerone0x1/ffuf/refs/heads/main/unffuf.sh
+```
 copy script to bin directory
 cp unffuf.sh /bin/
 how to use script in ffuf 
