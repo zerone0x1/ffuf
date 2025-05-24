@@ -1,4 +1,4 @@
-# ffuf
+# unffuf
 remove duplicate output ffuf tools depend on size
 after install script 
 ```
