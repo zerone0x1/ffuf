@@ -1,6 +1,6 @@
 # unffuf
 remove duplicate output ffuf tools depend on size
-after install script 
+ install script 
 ```
 wget https://raw.githubusercontent.com/zerone0x1/ffuf/refs/heads/main/unffuf.sh
 ```
